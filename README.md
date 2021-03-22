@@ -1,6 +1,6 @@
-# PalpiteBox
+# MyDailyStatus
 
-[![HitCount](https://hits.dwyl.com/helder-barbosa/helder-barbosa/palpite-box.svg)](https://hits.dwyl.com/helder-barbosa/helder-barbosa/palpite-box)
+[![HitCount](https://hits.dwyl.com/helder-barbosa/helder-barbosa/my-daily-status.svg)](https://hits.dwyl.com/helder-barbosa/helder-barbosa/my-daily-status)
 
 
 ## Início
